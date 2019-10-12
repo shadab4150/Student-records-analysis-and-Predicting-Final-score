@@ -4,7 +4,7 @@
 
 * Based on fators such as alcohol cosumption, internet use, romantic life, parental status, family size.
 
-* Dataset was downloaded from *UCI machine learning repository.**
+* Dataset was downloaded from * UCI machine learning repository.**
 
 ### Below are some predicted scores plotted on graph to see comparison.
 
