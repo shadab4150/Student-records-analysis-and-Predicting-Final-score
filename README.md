@@ -10,4 +10,8 @@
 
 * Linear regress has least **RMSE** of 1.4
 
-![kd]()
+![kd](https://i.ibb.co/2kLw6Zx/grades2.png)
+
+### Below are average distributions of original data vs predicted data
+
+![kd](https://i.ibb.co/wsyb8p8/grades1.png)
