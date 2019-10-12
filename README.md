@@ -5,7 +5,7 @@
 * Based on fators such as alcohol cosumption, internet use, romantic life, parental status, family size.
 
 * Dataset was downloaded from **UCI machine learning repository.**
-* For full project overview and jupyter notebooks click here. [**Link**]()
+* For full project overview and jupyter notebooks click here. [**Link**](https://github.com/shadab4150/Student-records-analysis-and-Predicting-Final-score)
 
 ### Below are some predicted scores plotted on graph to see comparison.
 
